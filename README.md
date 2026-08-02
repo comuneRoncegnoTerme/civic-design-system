@@ -1,10 +1,11 @@
-# Roncegno Civic Design System
+# Roncegno Civic Design System (RCDS)
 
-Versione 0.2.0. Aprire `docs/index.html` oppure pubblicare la cartella `docs` con GitHub Pages.
+Versione 0.3.0 - Prototipi operativi.
 
-## Contenuti
-- Brand book HTML e PDF
-- Design system preliminare
-- 6 template social SVG modificabili
-- Regole multicanale
-- Governance e policy IA
+Questa release aggiunge template vettoriali, token di design, matrice multicanale, motion identity, notiziario e una demo HTML più completa.
+
+## Avvio locale
+Aprire `docs/index.html` nel browser.
+
+## GitHub Pages
+Il workflow in `.github/workflows/pages.yml` pubblica automaticamente la cartella `docs`.

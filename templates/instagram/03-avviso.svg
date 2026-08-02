@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<defs><linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F4F0E7" stop-opacity=".30"/><stop offset="1" stop-color="#F4F0E7" stop-opacity=".97"/></linearGradient></defs>
+<rect width="1080" height="1350" fill="#F4F0E7"/>
+<rect x="70" y="72" width="150" height="10" rx="5" fill="#527B87"/>
+<text x="70" y="135" fill="#292C2A" font-family="Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="4">INFORMAZIONI</text>
+<text x="70" y="455" fill="#292C2A" font-family="Georgia, serif" font-size="94" font-weight="700">Viabilità temporanea</text>
+<text x="70" y="545" fill="#292C2A" font-family="Arial, sans-serif" font-size="38">Via Roma · lunedì 3 agosto</text>
+<line x1="70" y1="1190" x2="1010" y2="1190" stroke="#527B87" stroke-width="3"/>
+<circle cx="95" cy="1253" r="25" fill="none" stroke="#527B87" stroke-width="5"/>
+<path d="M78 1253 L91 1266 L113 1238" fill="none" stroke="#527B87" stroke-width="5"/>
+<text x="140" y="1264" fill="#292C2A" font-family="Arial, sans-serif" font-size="25" font-weight="700" letter-spacing="2">COMUNE DI RONCEGNO TERME</text>
+</svg>
